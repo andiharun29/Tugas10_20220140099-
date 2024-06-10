@@ -1,3 +1,6 @@
+![Screenshot 2024-06-10 133955](https://github.com/andiharun29/Tugas10_20220140099-/assets/127277281/5175f0de-006f-4775-a386-f5098abddf8d)
+![Screenshot 2024-06-10 133958](https://github.com/andiharun29/Tugas10_20220140099-/assets/127277281/5db4b8bf-370b-4676-a624-22e70813dbad)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
